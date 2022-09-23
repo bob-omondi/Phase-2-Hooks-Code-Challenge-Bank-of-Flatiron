@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/code-challeng/static/css/main.36b1c42b.chunk.css",
+    "main.js": "/code-challeng/static/js/main.2c79f388.chunk.js",
+    "main.js.map": "/code-challeng/static/js/main.2c79f388.chunk.js.map",
+    "runtime-main.js": "/code-challeng/static/js/runtime-main.1a93c069.js",
+    "runtime-main.js.map": "/code-challeng/static/js/runtime-main.1a93c069.js.map",
+    "static/css/2.e0cacb41.chunk.css": "/code-challeng/static/css/2.e0cacb41.chunk.css",
+    "static/js/2.3a49ed8d.chunk.js": "/code-challeng/static/js/2.3a49ed8d.chunk.js",
+    "static/js/2.3a49ed8d.chunk.js.map": "/code-challeng/static/js/2.3a49ed8d.chunk.js.map",
+    "index.html": "/code-challeng/index.html",
+    "static/css/2.e0cacb41.chunk.css.map": "/code-challeng/static/css/2.e0cacb41.chunk.css.map",
+    "static/css/main.36b1c42b.chunk.css.map": "/code-challeng/static/css/main.36b1c42b.chunk.css.map",
+    "static/js/2.3a49ed8d.chunk.js.LICENSE.txt": "/code-challeng/static/js/2.3a49ed8d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/code-challeng/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a93c069.js",
+    "static/css/2.e0cacb41.chunk.css",
+    "static/js/2.3a49ed8d.chunk.js",
+    "static/css/main.36b1c42b.chunk.css",
+    "static/js/main.2c79f388.chunk.js"
+  ]
+}
